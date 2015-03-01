@@ -20,7 +20,7 @@
     "branch": "vm12"
   },
   {
-    "repository": "TM/proprietary_vendor_oneplus",
+    "repository": "TheMuppets/proprietary_vendor_oneplus",
     "target_path": "vendor/oneplus",
     "branch": "cm-12.0"
   },  
