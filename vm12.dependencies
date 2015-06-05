@@ -20,9 +20,9 @@
     "branch": "vm12"
   },
   {
-    "repository": "TheMuppets/proprietary_vendor_oneplus",
+    "repository": "VM12/proprietary_vendor_oneplus",
     "target_path": "vendor/oneplus",
-    "branch": "cm-12.1"
+    "branch": "vm12"
   },  
   {
     "repository": "VM12/android_kernel_oneplus_msm8974",
